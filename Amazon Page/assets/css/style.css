@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.topbar {
+  background-color: #222f3f;
+  height: 3em;
+}
+.topbar img {
+  height: 40%;
+  margin-left: 1em;
+  margin-top: 0.5em;
+}
+nav {
+  background-color: #364759;
+  height: 1.5em;
+}
+nav button {
+  background-color: transparent;
+  border: transparent;
+  color: white;
+  padding-top: 0.4em;
+  font-size: 0.7em;
+}
