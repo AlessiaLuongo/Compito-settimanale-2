@@ -127,4 +127,25 @@ while (numericArray[i] !== 32) {
     dell'alfabeto italiano.
     es. [f, b, e] --> [6, 2, 5]
 */
-const charactersArray = ["g", "n", "u", "z", "d"];
+const charactersArray = ["g", "n", "u", "z", "d"]; // 6,11,18,20,3
+const alfabetNumbers = [];
+
+let g = 6;
+let n = 11;
+let u = 18;
+let z = 20;
+let d = 3;
+switch (key) {
+  case g:
+    break;
+  case n:
+    break;
+  case u:
+    break;
+  case z:
+    break;
+  case d:
+    break;
+  default:
+    break;
+}
